@@ -1,0 +1,7 @@
+{
+    "The :attribute must contain at least one letter.": "Atributda kamida bitta harf boʻlishi kerak.",
+    "The :attribute must contain at least one number.": "Atributi kamida bitta raqamni o'z ichiga olishi kerak.",
+    "The :attribute must contain at least one symbol.": "Atributi kamida bitta belgidan iborat boʻlishi kerak.",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": "Atributi kamida bitta katta va bitta kichik harfdan iborat bo'lishi kerak.",
+    "The given :attribute has appeared in a data leak. Please choose a different :attribute.": "Berilgan :atributi maʼlumotlar sizib chiqishida paydo boʻldi. Boshqa :atributni tanlang."
+}
